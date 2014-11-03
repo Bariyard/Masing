@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HistoryClass</class>
+ <widget class="QDialog" name="HistoryClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>520</width>
+    <height>352</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>History</string>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>491</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout_2">
+    <item row="0" column="0">
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QLabel" name="note_24">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_25">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C#1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_26">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_27">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D#1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_28">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>E1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_29">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_30">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F#1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_31">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_32">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G#1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_33">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_34">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A#1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_35">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>B1</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="2">
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <item>
+       <widget class="QLabel" name="note_36">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_37">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C#2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_38">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_39">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D#2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_40">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>E2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_41">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_42">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F#2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_43">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_44">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G#2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_45">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_46">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A#2</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_47">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>B2</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="4">
+     <layout class="QVBoxLayout" name="verticalLayout_5">
+      <item>
+       <widget class="QLabel" name="note_48">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_49">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C#3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_50">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_51">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D#3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_52">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>E3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_53">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_54">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F#3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_55">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_56">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G#3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_57">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_58">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A#3</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_59">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>B3</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="6">
+     <layout class="QVBoxLayout" name="verticalLayout_7">
+      <item>
+       <widget class="QLabel" name="note_60">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_61">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C#4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_62">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_63">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D#4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_64">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>E4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_65">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_66">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F#4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_67">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_68">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G#4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_69">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_70">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A#4</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_71">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>B4</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="8">
+     <layout class="QVBoxLayout" name="verticalLayout_9">
+      <item>
+       <widget class="QLabel" name="note_72">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_73">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>C#5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_75">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D#5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_74">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>D5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_76">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>E5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_77">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_78">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>F#5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_79">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_80">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>G#5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_81">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_82">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>A#5</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="note_83">
+        <property name="font">
+         <font>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>B5</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="1">
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QLCDNumber" name="count_24"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_25"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_26"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_27"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_28"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_29"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_30"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_31"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_32"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_33"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_34"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_35"/>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="3">
+     <layout class="QVBoxLayout" name="verticalLayout_6">
+      <item>
+       <widget class="QLCDNumber" name="count_36"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_37"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_38"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_39"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_40"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_41"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_42"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_43"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_44"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_45"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_46"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_47"/>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="5">
+     <layout class="QVBoxLayout" name="verticalLayout_8">
+      <item>
+       <widget class="QLCDNumber" name="count_48"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_49"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_50"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_51"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_52"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_53"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_54"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_55"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_56"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_57"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_58"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_59"/>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="7">
+     <layout class="QVBoxLayout" name="verticalLayout_10">
+      <item>
+       <widget class="QLCDNumber" name="count_60"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_61"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_62"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_63"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_64"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_65"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_66"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_67"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_68"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_69"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_70"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_71"/>
+      </item>
+     </layout>
+    </item>
+    <item row="0" column="9">
+     <layout class="QVBoxLayout" name="verticalLayout_11">
+      <item>
+       <widget class="QLCDNumber" name="count_72"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_73"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_74"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_75"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_76"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_77"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_78"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_79"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_80"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_81"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_82"/>
+      </item>
+      <item>
+       <widget class="QLCDNumber" name="count_83"/>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="closeButton">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>300</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="clearButton">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>300</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Clear</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>300</y>
+     <width>71</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>9</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Total (%)</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>300</y>
+     <width>46</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Try</string>
+   </property>
+  </widget>
+  <widget class="QLCDNumber" name="totalLCDBox">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>300</y>
+     <width>64</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLCDNumber" name="countTryLCDBox">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>300</y>
+     <width>64</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
